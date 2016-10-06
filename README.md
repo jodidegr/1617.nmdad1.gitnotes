@@ -8,6 +8,12 @@ Afstudeerrichting: Multimediaproductie - Produce<br>
 Klas: 2MMPproduce a</p>
 
 
+![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
+![Steve Jobs][Steve J]
+
+[Steve J]:http://www.insideris.com/wp-content/uploads/2012/04/stevejobbs.jpg "Steve Jobs"
+
+
 ## Ervaring
 | Wat      |    Van | Tot | Waar |
 | :-------- | --------:| --------:| :-- |
@@ -44,5 +50,13 @@ Klas: 2MMPproduce a</p>
 * Microsoft Power Point 
 * Microsoft Acces
 
+
+<h3> Website's</h3>
+
+<p>
+<a href="https://www.facebook.com/profile.php?id=1671799902" title="Jodie De Greef op Facebook">Facebook</a> <br>
+<a href="https://twitter.com/jodiedegreef" title="Jodie De Greef op Twitter">Twitter</a><br>
+<a href="https://vimeo.com/user37839934" title="Jodie De Greef op Vimeo">Vimeo</a>
+</p>
 
 
