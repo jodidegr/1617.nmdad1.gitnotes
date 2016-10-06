@@ -7,13 +7,6 @@ Studie: Grafische en digitale media aan Arteveldehogeschool te Mariakerke, Gent.
 Afstudeerrichting: Multimediaproductie - Produce<br>
 Klas: 2MMPproduce a</p>
 
-
-![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
-![Steve Jobs][Steve J]
-
-[Steve J]:http://www.insideris.com/wp-content/uploads/2012/04/stevejobbs.jpg "Steve Jobs"
-
-
 ## Ervaring
 | Wat      |    Van | Tot | Waar |
 | :-------- | --------:| --------:| :-- |
