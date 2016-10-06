@@ -2,7 +2,10 @@
 
 ## Over
 <p>Naam: De Greef Jodie<br>
-Woonplaats: Lennik </p>
+Woonplaats: Lennik <br>
+Studie: Grafische en digitale media aan Arteveldehogeschool te Mariakerke, Gent. <br>
+Afstudeerrichting: Multimediaproductie - Produce<br>
+Klas: 2MMPproduce a</p>
 
 
 ## Ervaring
